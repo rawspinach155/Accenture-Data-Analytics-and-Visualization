@@ -63,32 +63,6 @@ The project involves:
 - `pandas`
 - `matplotlib`
 
-## Usage
-
-1. **Clone the Repository**:
-
-    ```bash
-    git clone https://github.com/yourusername/category-analysis.git
-    ```
-
-2. **Navigate to the Project Directory**:
-
-    ```bash
-    cd category-analysis
-    ```
-
-3. **Install Dependencies**:
-
-    ```bash
-    pip install pandas matplotlib
-    ```
-
-4. **Run the Analysis Script**:
-
-    ```bash
-    python analysis.py
-    ```
-
 ## Acknowledgments
 
 This project was part of a free job project simulation offered by Accenture on Forage.

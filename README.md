@@ -1,9 +1,6 @@
 # Accenture-Data-Analytics-and-Visualization
 A free job simulation on Forage. All credits go to Accenture. 
 Check out the simulation [here]([url](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb)).
-
-Here's a GitHub README template for your project that includes data processing, visualization, and analysis of categories:
-
 ---
 
 # Category Analysis and Visualization

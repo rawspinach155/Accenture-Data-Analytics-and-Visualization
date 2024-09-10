@@ -4,6 +4,13 @@ A free job simulation on Forage. All credits go to Accenture. Check out the simu
 
 Data analysis and visualization were performed using a Kaggle notebook to streamline and enhance the analysis process. You can find the notebook here: https://www.kaggle.com/code/emmawu155/accenture-navigating-numbers
 
+# Quick Project Summary
+
+- Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
+- Cleaned, modeled, and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
+- Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
+- Data analysis and visualization were performed using a Kaggle notebook to streamline and enhance the analysis process.
+
 # Category Analysis and Visualization
 
 This project analyzes and visualizes data related to various categories based on user reactions. The goal is to clean, process, and visualize the data to identify trends and insights, such as the top-performing categories and the distribution of scores.

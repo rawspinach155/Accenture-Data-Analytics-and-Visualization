@@ -66,4 +66,3 @@ The project involves:
 ## Acknowledgments
 
 This project was part of a free job project simulation offered by Accenture on Forage.
----

@@ -2,6 +2,8 @@
 
 A free job simulation on Forage. All credits go to Accenture. Check out the simulation here: https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb
 
+Data analysis and visualization were performed using a Kaggle notebook to streamline and enhance the analysis process. You can find the notebook here: https://www.kaggle.com/code/emmawu155/accenture-navigating-numbers
+
 # Category Analysis and Visualization
 
 This project analyzes and visualizes data related to various categories based on user reactions. The goal is to clean, process, and visualize the data to identify trends and insights, such as the top-performing categories and the distribution of scores.
@@ -65,4 +67,5 @@ The project involves:
 
 ## Acknowledgments
 
-This project was part of a free job project simulation offered by Accenture on Forage.
+- This project was part of a free job project simulation offered by Accenture on Forage.
+- Data analysis and visualization were performed using a Kaggle notebook to streamline and enhance the analysis process.
